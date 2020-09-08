@@ -1,4 +1,6 @@
-# test
+# Vue todo app 
+
+Made with Vue CLI
 
 ## Project setup
 ```
